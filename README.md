@@ -2,7 +2,7 @@
 
 Welcome to **X-NOVA** - A decentralized mining and staking platform on the Binance Smart Chain (BSC)! Earn XNOVA tokens through mining, NFT staking, and referral rewards.
 
-![XNOVA](./public/NOVA.png)
+![XNOVA](https://xnova.network/images/logo.png)
 
 ---
 
