@@ -139,7 +139,7 @@ Manage your account:
 Welcome Screen → Connect Wallet → Register Screen → Enter Referrer (Optional) → Confirm Registration
 ```
 - **Time**: ~1-2 minutes
-- **Gas Cost**: Small BSC transaction fee (~$0.50)
+- **Gas Cost**: Small BSC transaction fee (~$0.01)
 - **Requirements**: Wallet connected, small amount of BNB
 
 #### 2️⃣ **Start Your First Mining Session**
