@@ -1,444 +1,367 @@
-# XNOVA Mining & Staking Platform
+# 🌟 XNOVA Mining - User Guide
+![XNOVA](https://pbs.twimg.com/profile_banners/1990924885032615936/1777891214/1500x500)
+Welcome to **XNOVA Mining**, a revolutionary decentralized mining platform where you can earn cryptocurrency rewards without expensive hardware!
 
-Welcome to **X-NOVA** - A decentralized mining and staking platform on the Binance Smart Chain (BSC)! Earn XNOVA tokens through mining, NFT staking, and referral rewards.
+## 🚀 What is XNOVA?
 
-![XNOVA](https://xnova.network/images/xnova-logos.png)
+XNOVA is a **DePIN (Decentralized Physical Infrastructure Network)** ecosystem built on **BNB Chain** that lets you:
+- **Mine XNOVA tokens** every 48 hours with just a wallet connection
+- **Collect NFT supporters** that generate passive income
+- **Stake NFTs** for year-long reward streams
+- **Earn referral commissions** by inviting friends
+- **Boost your earnings** with power-ups from the shop
 
----
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Getting Started](#getting-started)
-3. [Platform Features](#platform-features)
-4. [Step-by-Step Guide](#step-by-step-guide)
-5. [Token Economics](#token-economics)
-6. [FAQ](#faq)
-7. [Community & Support](#community--support)
+**No hardware needed. No technical setup. Just connect and earn.**
 
 ---
 
-## Overview
-
-**XNOVA** is a next-generation cryptocurrency mining platform that enables users to:
-- **Mine** XNOVA tokens through automated 48-hour mining sessions
-- **Boost** earnings with up to 20x multipliers
-- **Mint** exclusive NFTs and earn daily rewards by staking
-- **Trade** tokens in real-time through our integrated swap interface
-- **Earn Referrals** - Get 25% rewards from your network
-
-### Key Features
-- ✨ **24/7 Automatic Mining** - Set it and forget it
-- 🎁 **25% Referral Rewards** - Earn from your network
-- 🚀 **20x Booster Multipliers** - Multiply your mining power
-- 🏆 **NFT Ecosystem** - Exclusive collectibles with daily rewards
-- 🔄 **Easy Token Swaps** - Integrated DEX functionality
-- 🌍 **Multi-wallet Support** - RainbowKit integration for seamless connectivity
-
----
-
-## Getting Started
-
-### Prerequisites
-- A **Binance Smart Chain (BSC)** compatible wallet
-  - MetaMask
-  - TrustWallet
-  - WalletConnect
-  - And other BSC-compatible wallets
-- A small amount of **BNB** for gas fees and minting/staking
+## 🎯 Getting Started in 3 Steps
 
 ### Step 1: Connect Your Wallet
+1. Visit the XNOVA Mining platform
+2. Click the **Connect Wallet** button
+3. Choose your wallet (MetaMask, Trust Wallet, Rainbow Kit, etc.)
+4. Approve the connection to BNB Chain
 
-1. Visit the XNOVA application
-2. Click the **"CONNECT WALLET"** button on the welcome screen
-3. Select your preferred wallet provider
-4. Approve the connection in your wallet
-5. Your wallet address is now connected!
+### Step 2: Start Mining
+1. Go to the **Mine XNOVA** section
+2. Click **Start Mining**
+3. Wait 48 hours for your mining cycle to complete
+4. Claim your rewards when ready
 
-### Step 2: Register
-
-1. After connecting, you'll see the **Registration Screen**
-2. **Optional**: Enter a referrer address to join someone's network
-   - You can also join via referral link: `https://xnova.network/?ref=0x...`
-3. Click **"REGISTER NOW"** button
-4. Approve the transaction in your wallet
-5. Wait for confirmation (usually 10-30 seconds)
-6. ✅ You're now registered and ready to mine!
-
----
-
-## Platform Features
-
-### 🏠 HOME Tab
-Your main dashboard showing:
-- **Total Balance** - Your current XNOVA holdings
-- **Mining Status** - Active mining sessions and progress
-- **Session Rewards** - Current session earnings
-- **Mining Progress** - Visual progress bar (48-hour sessions)
-- **Action Buttons** - Start mining, claim rewards, and more
-
-### ⛏️ MINING Tab
-Manage your mining operations:
-- **Start Mining** - Begin a new 48-hour mining session
-- **Claim Rewards** - Withdraw completed session rewards (100% mined)
-- **Current Reward** - Real-time earnings for active session
-- **Time Remaining** - Countdown to reward availability
-- **Session Info** - Mining history and statistics
-
-### ✨ MINT Tab
-Create exclusive NFTs:
-- **Mint Cost** - Current mint price in BNB
-- **Collection Progress** - View how many NFTs have been minted
-- **Mint Limit** - Max 5 NFTs per wallet
-- **NFT Benefits**:
-  - Exclusive community membership
-  - Limited edition collectible (only 900 total)
-  - Tradeable on blockchain
-  - Eligible for staking rewards
-
-### 🔒 STAKE Tab
-Earn daily rewards by staking NFTs:
-- **Approval** - One-time setup to enable staking (security feature)
-- **Select NFTs** - Choose which NFTs to stake
-- **Stake** - Lock NFTs in the staking contract
-- **Claim Rewards** - Withdraw daily XNOVA earnings anytime
-- **Unstake** - Remove NFTs from staking
-- **Reward Rate** - 10 XNOVA per NFT per day (maximum 3,650 per NFT annually)
-
-### 🔄 SWAP Tab
-Trade tokens seamlessly:
-- Real-time token swapping
-- Multiple trading pairs supported
-- Fast transaction confirmation
-- Live price charts and statistics
-
-### 🚀 BOOST Tab
-Multiply your mining rewards:
-- **Booster 1** - 2x Multiplier
-- **Booster 2** - 5x Multiplier
-- **Booster 3** - 10x Multiplier
-- **Booster 4** - 20x Multiplier
-- Stackable boosters for cumulative effects
-- View detailed booster information and costs
-
-### 👤 PROFILE Tab
-Manage your account:
-- **Referral Link** - Share to earn rewards
-- **Account Statistics** - Mining history and achievements
-- **Copy Referral Link** - Quick copy for sharing
-- **Transaction History** - View all past transactions
+### Step 3: Explore More Features
+- Mint supporter NFTs
+- Stake NFTs for daily rewards
+- Buy power-ups to boost earnings
+- Invite friends and earn commissions
 
 ---
 
-## Step-by-Step Guide
+## 💎 Core Features Explained
 
-### Complete Setup (First Time)
+### 1. **Mining** ⛏️
+The easiest way to earn XNOVA tokens.
 
-#### 1️⃣ **Register for Mining**
-```
-Welcome Screen → Connect Wallet → Register Screen → Enter Referrer (Optional) → Confirm Registration
-```
-- **Time**: ~1-2 minutes
-- **Gas Cost**: Small BSC transaction fee (~$0.01)
-- **Requirements**: Wallet connected, small amount of BNB
+**How it works:**
+- Register once (free, on-chain)
+- Hit **Start Mining**
+- Every **48 hours**, your mining session completes
+- **Claim your XNOVA** and start a new cycle
+- Earn **40 XNOVA per cycle** (base rate)
 
-#### 2️⃣ **Start Your First Mining Session**
-```
-Home Tab → Mining Section → Click "START MINING" → Confirm Transaction
-```
-- **Duration**: 48 hours
-- **Auto-renewal**: Session automatically starts after claiming
-- **Progress**: Track completion with visual progress bar
+**Boost Your Earnings:**
+- Visit the **Power Shop** to buy multipliers
+- Get up to **20× earnings** per cycle
+- Each boost increases your rewards for the next 48 hours
 
-#### 3️⃣ **Claim Your First Reward**
-```
-Home Tab → Wait 48 Hours (or check progress) → Click "CLAIM REWARD" → Confirm Transaction
-```
-- **Requirement**: Mining session must be 100% complete
-- **Auto-Renewal**: New session starts automatically after claim
-- **Frequency**: Claim every 48 hours for consistent income
+**Example:**
+- Base mining: 40 XNOVA per 48h
+- With 2× multiplier: 80 XNOVA per 48h
+- With 20× multiplier: 800 XNOVA per 48h
 
 ---
 
-### Boost Your Mining (Increase Earnings)
+### 2. **NFT Supporter Collection** ✨
+Mint exclusive NFTs that generate passive income.
 
-#### Get a Booster
-```
-Boost Tab → Select Booster (1x, 2x, 5x, 10x, or 20x) → Check Price → Buy → Confirm
-```
-- **Effect**: Multiplier applies to next mining session
-- **Stacking**: Combine multiple boosters for greater rewards
-- **Cost**: Varies by booster level (check Boost tab for prices)
+**What are Supporter NFTs?**
+- On-chain collectibles representing early supporters
+- Each NFT generates **10 XNOVA per day** when staked
+- **Maximum earnings: 3,650 XNOVA per NFT** (365 days × 10)
+- Grants early-supporter status and prestige
 
-#### Example with 2x Booster
-- **Normal Session**: 10 XNOVA per day × 2 days = 20 XNOVA
-- **With 2x Booster**: (10 × 2) XNOVA per day × 2 days = 40 XNOVA
+**How to Mint:**
+1. Go to **Mint NFT**
+2. Check current supply and minting price
+3. Click **Mint** and approve the transaction
+4. Your NFT appears in your wallet instantly
 
----
-
-### Mint & Stake NFTs (Passive Income)
-
-#### Mint NFT
-```
-Mint Tab → Check Available Price → Click "MINT NFT NOW" → Confirm → Pay BNB Fee
-```
-- **Limit**: 5 NFTs per wallet
-- **Cost**: Usually 0.01-0.05 BNB per NFT
-- **Supply**: Only 900 total NFTs available
-- **Ownership**: NFT is stored in your blockchain wallet
-
-#### Stake for Daily Rewards
-```
-Stake Tab → Approve (First Time Only) → Select NFTs → Click "STAKE NFTs" → Confirm
-```
-- **Daily Reward**: 10 XNOVA per staked NFT per day
-- **Annual Maximum**: 3,650 XNOVA per NFT (365 days)
-- **Claim Anytime**: Withdraw rewards whenever you want
-- **Unstake Anytime**: Remove from staking without penalty
-
-#### Claim Staking Rewards
-```
-Stake Tab → Select Staked NFTs → View Pending Rewards → Click "CLAIM REWARDS" → Confirm
-```
-- **Frequency**: Claim as often as you want
-- **No Loss**: Claiming doesn't unstake your NFTs
-- **Earnings Keep**: Start earning again immediately after claim
+**Limited Edition:**
+- Only a specific number of NFTs available
+- Once sold out, no more can be minted
+- Ownership is permanent on the blockchain
 
 ---
 
-### Earn Through Referrals
+### 3. **Staking** 🔒
+Lock your NFTs to earn daily rewards.
 
-#### Share Your Link
-```
-Profile Tab → Copy Referral Link → Share with Friends
-```
-- **Link Format**: `https://xnova.network/?ref=YOUR_WALLET_ADDRESS`
-- **Share Via**: Telegram, Twitter, Discord, Email, etc.
+**How it works:**
+1. Go to **Stake NFT**
+2. Select your NFTs to stake
+3. Approve staking (first time only)
+4. Lock them for **365 days**
+5. Earn **10 XNOVA per day per NFT**
 
-#### Earn 25% Rewards
-- When someone registers with your link
-- You receive 25% of their mining rewards
-- Passive income from your network
-- No limit on referral earnings
+**Key Points:**
+- You keep ownership — no risk of losing the NFT
+- Rewards accumulate daily
+- Claim anytime after the stake period begins
+- Unstake anytime (but you lose remaining daily rewards)
 
----
-
-## Token Economics
-
-### Mining Rewards
-| Item | Value |
-|------|-------|
-| Base Daily Reward | 10 XNOVA |
-| Session Duration | 48 hours |
-| Booster Range | 1x - 20x |
-| Max Annual (No Boosters) | ~1,825 XNOVA |
-
-### NFT Staking
-| Item | Value |
-|------|-------|
-| Daily Reward per NFT | 10 XNOVA |
-| Annual Max per NFT | 3,650 XNOVA |
-| Max NFTs per Wallet | 5 |
-| Max Annual All NFTs | 18,250 XNOVA |
-
-### Referral System
-| Item | Value |
-|------|-------|
-| Referral Commission | 25% of rewards |
-| Unlimited Referrals | Yes |
-| Income Type | Passive |
-| Withdrawal | Claim with each reward |
-
-### Combined Annual Potential
-- Mining: ~1,825 XNOVA (without boosters)
-- NFT Staking: ~18,250 XNOVA (5 NFTs)
-- Referrals: Unlimited (depends on network)
-- **Total**: 20,000+ XNOVA annually (plus referrals)
+**Example Earnings:**
+- 1 NFT staked = 3,650 XNOVA over 365 days
+- 5 NFTs staked = 18,250 XNOVA over 365 days
 
 ---
 
-## FAQ
+### 4. **Power Shop** 🛒
+Boost your mining earnings instantly.
+
+**What can you buy?**
+- **Multipliers** (2×, 5×, 10×, 20×)
+- Each multiplier increases your next mining cycle rewards
+- Buy anytime before or during a mining session
+
+**How it works:**
+1. Go to **Power Shop**
+2. Choose a multiplier
+3. Pay in **BNB** (not XNOVA)
+4. Your next 48-hour cycle gets boosted
+5. Can stack multiple boosters for higher rewards
+
+**Important:**
+- Each boost is single-use (one cycle)
+- The BNB you spend strengthens the entire ecosystem
+- Deflationary mechanics benefit all token holders
+
+---
+
+### 5. **Referral Program** 👥
+Invite friends and earn **25% commission forever**.
+
+**How to earn:**
+1. Go to **Referral**
+2. Copy your unique referral link
+3. Share with friends (Twitter, Telegram, WhatsApp, etc.)
+4. Every friend who joins using your link = commission
+5. Every time they buy a booster, you earn **25% of the BNB**
+
+**Commission Details:**
+- **Uncapped** — earn from unlimited referrals
+- **Lifetime** — keep earning as long as they play
+- **Automatic** — rewards go straight to your wallet
+- No claiming needed
+
+**Sharing Tools:**
+- Direct link copy
+- Built-in Twitter share
+- Telegram integration
+- WhatsApp support
+- Native share (mobile)
+
+**Example Earnings:**
+- 10 referrals buy boosters = 10 × 25% BNB commission
+- 100 active referrals = ongoing passive income
+
+---
+
+### 6. **My Wallet** 💰
+View all your balances and wallet details.
+
+**What you'll see:**
+- Your **XNOVA balance**
+- Your **BNB balance**
+- Your **wallet address** (copyable)
+- Connection status
+- Transaction history
+
+**Uses:**
+- Quick balance check
+- Share your address with others
+- Disconnect if needed
+- View all assets at a glance
+
+---
+
+### 7. **Projects** 📊
+Explore the XNOVA ecosystem and funded projects.
+
+**What's included:**
+- Active community projects
+- Development initiatives
+- Partner integrations
+- Ecosystem growth updates
+
+---
+
+## 📊 Dashboard Stats
+
+### Home Page Shows:
+- **Network-wide Miners**: Total users actively mining
+- **Total Mined**: XNOVA tokens distributed so far
+- **Total Staked**: NFTs locked in staking contracts
+- **Live XNOVA Price**: Current market value
+- **NFT Supply**: How many Supporter NFTs have been minted
+- **Mining Status**: Your current cycle and countdown
+
+---
+
+## 💡 Pro Tips to Maximize Earnings
+
+### 🎯 Mining Strategy
+1. **Always start a new cycle** after claiming
+2. **Buy boosters before claiming** to maximize your next cycle
+3. **Stack multipliers** — combine 2× and 5× for 10× effect
+4. **Monitor price** — buy boosters when XNOVA is high
+
+### 🪙 NFT Strategy
+1. **Mint early** — limited supply available
+2. **Stake immediately** after minting for full-year rewards
+3. **Don't unstake early** — you lose remaining daily rewards
+4. **Hold for long-term** — passive income accumulates
+
+### 👥 Referral Strategy
+1. **Share with crypto communities** — higher conversion
+2. **Post your link on social media** — passive reach
+3. **Focus on quality referrals** — power shop buyers earn you more
+4. **Build a network** — compound earnings grow exponentially
+
+### 💎 Overall Strategy
+1. **Mine consistently** — 48h cycles compound quickly
+2. **Reinvest earnings** — use XNOVA to buy BNB for boosters
+3. **Build referral army** — commission income scales
+4. **Stake NFTs** — diversify income streams
+
+---
+
+## 🔐 Security & Safety
+
+### Your Wallet is Safe
+- ✅ **You control your keys** — not a centralized account
+- ✅ **On-chain contracts** — fully transparent and auditable
+- ✅ **No passwords needed** — just wallet connection
+- ✅ **Transactions are reversible** — blockchain records everything
+
+### Best Practices
+- Always approve transactions carefully
+- Double-check contract addresses on BNB Chain
+- Keep your wallet seed phrase private
+- Use reputable wallets (MetaMask, Trust Wallet, etc.)
+- Never share your private keys
+
+---
+
+## 🌐 Community & Support
+
+### Connect With Us
+- **Telegram**: [Join Community](https://t.me/xnovatokn)
+- **Twitter/X**: [@xnovatoken](https://x.com/xnovatoken)
+- **GitHub**: [xnova-network](https://github.com/xnova-network)
+- **Docs**: [Official Documentation](https://docs.xnova.network)
+- **Website**: [xnova.network](https://xnova.network)
+
+### Get Help
+- Read our documentation
+- Ask in Telegram community
+- Check GitHub issues
+- DM support on social media
+
+---
+
+## 📈 Tokenomics & Sustainability
+
+### Why XNOVA is Deflationary
+1. **Power Shop purchases** → BNB goes to liquidity
+2. **Liquidity strengthens** → buying pressure increases
+3. **Supply stays fixed** → less XNOVA in circulation
+4. **Price appreciates** → everyone's holdings gain value
+
+### Benefits for You
+- Your tokens become more valuable over time
+- Every booster you buy benefits the whole ecosystem
+- Early mining advantage compounds long-term
+- Referral network grows exponentially
+
+---
+
+## ❓ Frequently Asked Questions
 
 ### Mining Questions
 
-**Q: How long is each mining session?**
-A: Each mining session lasts 48 hours. After claiming, a new session automatically starts.
+**Q: What happens if I don't claim after 48 hours?**
+A: Your mining session stays pending. You can claim anytime, even weeks later. No rewards are lost.
 
-**Q: Can I claim before 48 hours?**
-A: No, you must wait for 100% completion. You can view the countdown timer on the Home tab.
+**Q: Can I start multiple mining sessions?**
+A: No, only one active session per wallet. Complete the current cycle first.
 
-**Q: What happens if I stop mining?**
-A: Sessions pause when you don't claim. You can restart anytime by clicking "Start Mining."
+**Q: Do I need to do anything while mining?**
+A: No! It's completely passive. Just come back in 48 hours to claim.
 
-**Q: Do I lose progress if I close the app?**
-A: No, your progress is stored on the blockchain. It continues even if you close the app.
-
----
-
-### Booster Questions
-
-**Q: How do boosters work?**
-A: Boosters multiply your daily mining rewards. A 2x booster doubles your earnings.
-
-**Q: Can I use multiple boosters?**
-A: Yes! Boosters stack. Using a 2x and 5x booster gives you 10x total multiplier.
-
-**Q: When does a booster activate?**
-A: Boosters activate on your next mining session after purchase.
-
-**Q: Do boosters expire?**
-A: Boosters last for one mining session (48 hours). After claiming, they're used up.
+**Q: What if I buy a booster mid-cycle?**
+A: It applies to your current cycle immediately, updating your total rewards.
 
 ---
 
-### NFT & Staking Questions
+### NFT Questions
 
-**Q: What are XNOVA NFTs?**
-A: Limited edition collectibles (only 900 total) that can be staked for daily XNOVA rewards.
+**Q: What if I unstake early?**
+A: You can unstake anytime, but you forfeit remaining unclaimed daily rewards.
 
-**Q: How much do NFTs cost?**
-A: Check the Mint tab for current price (usually 0.01-0.05 BNB).
+**Q: Can I trade my NFTs?**
+A: Yes! Visit the Marketplace to buy/sell Supporter NFTs with other players.
 
-**Q: Can I sell my NFT?**
-A: Yes! Your NFT is a blockchain asset. You can trade it on any NFT marketplace (OpenSea, etc).
+**Q: Is there a limit on how many NFTs I can mint?**
+A: Yes, per-wallet limits apply. Check the mint page for your remaining quota.
 
-**Q: What is approval and why do I need it?**
-A: Approval is a security feature allowing the staking contract to manage your NFTs. It's a one-time transaction.
-
-**Q: Do I lose my NFT when I unstake?**
-A: No, unstaking removes it from earning rewards but keeps it in your wallet.
-
-**Q: Can I restake the same NFT?**
-A: Yes, you can stake/unstake as many times as you want.
+**Q: Do I need to do anything after staking?**
+A: Just claim your daily rewards when you want. They accumulate automatically.
 
 ---
 
 ### Referral Questions
 
-**Q: How do I get my referral link?**
-A: Go to Profile tab and click "Copy Referral Link."
+**Q: How do I know my referral joined using my link?**
+A: Check your Referral page — you'll see total referrals count update automatically.
 
-**Q: When do I earn referral rewards?**
-A: When someone registers using your link and mines tokens.
+**Q: Can I earn from my own account?**
+A: No, referral links are tied to the wallet that created them.
 
-**Q: How much can I earn from referrals?**
-A: 25% of all mining and boosting rewards from your referrals. Unlimited!
+**Q: When do I get the commission?**
+A: Instantly, when your referral buys a booster. No claiming needed.
 
-**Q: Do referral rewards come automatically?**
-A: Yes, they're added when your referral claims their mining rewards.
-
----
-
-### Wallet & Security Questions
-
-**Q: What wallets can I use?**
-A: Any BSC-compatible wallet (MetaMask, TrustWallet, WalletConnect, etc).
-
-**Q: Is my wallet safe on XNOVA?**
-A: Your wallet connects read-only. Only transactions you approve are executed.
-
-**Q: What if I forget my wallet?**
-A: XNOVA is wallet-based. As long as you have access to your wallet, you have access to your account.
-
-**Q: Can I use the same wallet for multiple accounts?**
-A: Yes, one wallet = one account. You can have one main account per wallet.
+**Q: Is there a cap on commissions?**
+A: No! Earn 25% forever from unlimited referrals.
 
 ---
 
-### Technical Questions
+### General Questions
 
 **Q: What blockchain is XNOVA on?**
-A: Binance Smart Chain (BSC). Fast, cheap, and reliable.
+A: BNB Chain (formerly BSC). Fast, cheap transactions.
 
-**Q: Why do I need BNB?**
-A: BNB is required for gas fees on every blockchain transaction.
+**Q: Do I need to pay gas fees?**
+A: Yes, typical BNB Chain fees (~$0.0001–$0.0002). Build this into your strategy.
 
-**Q: How much BNB do I need?**
-A: Starting: $10-20 worth for registration, minting, and operations.
+**Q: Is my data private?**
+A: All transactions are public on BNB Chain, but tied only to wallet addresses.
 
-**Q: Are transactions permanent?**
-A: Yes, blockchain transactions are immutable. Always double-check before confirming.
-
----
-
-## Community & Support
-
-### Connect With Us
-- **Telegram**: [@xnovatokn](https://t.me/xnovatokn)
-- **Twitter/X**: [@xnovatoken](https://x.com/xnovatoken)
-- **Official Website**: [xnova.network](https://xnova.network)
-
-### Need Help?
-1. **Check this README** - Most questions answered here
-2. **Visit our Telegram** - Active community and support team
-3. **DM on Twitter** - Quick responses from team
-
-### Report Issues
-- Found a bug? Contact us on Telegram or Twitter
-- Always describe: What happened, when it happened, and your wallet (if relevant)
+**Q: Can XNOVA be hacked?**
+A: Smart contracts are on-chain and publicly auditable. Your wallet is only as secure as your keys.
 
 ---
 
-## Important Reminders
+## 🎉 Ready to Start?
 
-⚠️ **Security**
-- Never share your seed phrase or private key
-- Only approve transactions you understand
-- Use official links only
-- Keep your wallet software updated
+1. **Connect your wallet** → Top right corner
+2. **Start mining** → Earn 40 XNOVA per cycle
+3. **Invite friends** → 25% commission forever
+4. **Stake NFTs** → 10 XNOVA per day per NFT
+5. **Boost earnings** → Up to 20× multiplier available
 
-⚠️ **Risk Disclosure**
-- Cryptocurrency is volatile
-- Past performance ≠ future results
-- Only invest what you can afford to lose
-- Do your own research (DYOR)
-
-⚠️ **Compliance**
-- Check local laws regarding cryptocurrency
-- XNOVA operates on BSC chain
-- Your transactions are your responsibility
+**Every 48 hours brings new opportunities. Begin your XNOVA journey today!**
 
 ---
 
-## Getting Started Quickly
+## 📝 Version & Updates
 
-**New User Checklist:**
-- [ ] Connect wallet to XNOVA
-- [ ] Register on platform
-- [ ] Start first mining session
-- [ ] Wait 48 hours
-- [ ] Claim first reward
-- [ ] Buy a booster (optional)
-- [ ] Mint your first NFT (optional)
-- [ ] Stake NFT for daily rewards (optional)
-- [ ] Share referral link with friends
-- [ ] Claim rewards every 48 hours
+**Platform Version**: 3.0.1  
+**Last Updated**: May 2026  
+**Blockchain**: BNB Chain (Mainnet)  
+**Status**: Live & Secure
 
 ---
 
-## Version Info
+**Questions? Join our Telegram community or check the docs. We're here to help!** 🚀
 
-- **Platform**: Next.js + React + TypeScript
-- **Blockchain**: Binance Smart Chain (BSC)
-- **Wallet Integration**: RainbowKit + Wagmi
-- **Smart Contracts**: Solidity EVM-compatible
-- **Last Updated**: February 2025
 
----
-
-## License & Terms
-
-XNOVA is a community-driven project. By using this platform, you agree to:
-- Terms of Service
-- Privacy Policy
-- Risk acknowledgment
-
-For full terms, visit our website.
-
----
-
-**Ready to start mining? Connect your wallet now and begin your XNOVA journey! 🚀**
-
----
-
-*© 2025 XNOVA - All rights reserved*
